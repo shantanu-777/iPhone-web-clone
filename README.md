@@ -46,8 +46,8 @@ Ensure you have the following installed:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
-cd iphone-doc
+git clone (https://github.com/shantanu-777/iPhone-web-clone.git)
+cd src
 npm install
 ```
 
